@@ -8,10 +8,10 @@ The challenge is to conduct a data analysis to answer questions and determine wh
 ### Challenge
 
 Graph with all the campaigns
-![Outcomes Based on Launch Dates](/Users/cristy/Desktop/DATA SCIENCE BERKELEY/1. EXCEL/Outcomes Based on Launch Dates.png)
+! [Outcomes Based on Launch Dates](/Users/cristy/Desktop/DATA SCIENCE BERKELEY/1. EXCEL/Outcomes Based on Launch Dates.png)
 
 Graph with Theater campaign
-![Theatre-Play Outcomes Based on Goals](/Users/cristy/Desktop/DATA SCIENCE BERKELEY/1. EXCEL/Theatre-Play Outcomes Based on Goals.png)
+! [Theatre-Play Outcomes Based on Goals](/Users/cristy/Desktop/DATA SCIENCE BERKELEY/1. EXCEL/Theatre-Play Outcomes Based on Goals.png)
 
 Graph Based on Dates
-![Outcomes Based on Launch Dates](/Users/cristy/Desktop/DATA SCIENCE BERKELEY/1. EXCEL/Outcomes Based on Launch Date.png)
+! [Outcomes Based on Launch Dates](/Users/cristy/Desktop/DATA SCIENCE BERKELEY/1. EXCEL/Outcomes Based on Launch Date.png)
