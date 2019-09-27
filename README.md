@@ -9,7 +9,7 @@ The challenge is to conduct a data analysis to answer questions and determine wh
 
 Graph with all the campaigns
 
-! [Outcomes Based on Launch Dates](DATA SCIENCE BERKELEY/1. EXCEL/Outcomes Based on Launch Dates.png)
+! [Outcomes Based on Launch Dates](1. EXCEL/Outcomes Based on Launch Dates.png)
 
 Graph with Theater campaign
 
