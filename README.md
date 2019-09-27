@@ -9,12 +9,12 @@ The challenge is to conduct a data analysis to answer questions and determine wh
 
 Graph with all the campaigns
 
-! [Outcomes Based on Launch Dates](../Outcomes Based on Launch Dates.png)
+! [Outcomes Based on Launch Dates](./Outcomes Based on Launch Dates.png)
 
 Graph with Theater campaign
 
-! [Theatre-Play Outcomes Based on Goals](../Theatre-Play Outcomes Based on Goals.png)
+! [Theatre-Play Outcomes Based on Goals](./Theatre-Play Outcomes Based on Goals.png)
 
 Graph Based on Dates
 
-! [Outcomes Based on Launch Dates](../Outcomes Based on Launch Date.png)
+! [Outcomes Based on Launch Dates](./Outcomes Based on Launch Date.png)
