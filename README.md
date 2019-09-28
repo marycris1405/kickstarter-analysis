@@ -8,12 +8,12 @@ The challenge was to conduct a data analysis to answer questions and determine w
 ### Challenge
 
 *Graph with all the campaigns*
-![General Outcomes Based on Goals](https://user-images.githubusercontent.com/44789805/65734156-869a2800-e086-11e9-86fb-727b34f852bb.png)
+![Outcomes Based on Goals ](https://user-images.githubusercontent.com/44789805/65809920-0b08ab80-e158-11e9-8f90-16c292dba223.png)
 
   * Taking in consideration all the categories and subcategories the campaign with goals between 1,000 and 4,999 has the largest amounts of projects as well it has a succesful rate of 66%.
 
 *Theatre-Play Outcomes*
-![Theatre-Play Outcomes Based on Goals](https://user-images.githubusercontent.com/44789805/65734167-9ade2500-e086-11e9-82f7-9b67eb146e27.png)
+![Theatre - Play Outcomes Based on Goals ](https://user-images.githubusercontent.com/44789805/65809930-21166c00-e158-11e9-97b7-925487b6fd09.png)
 
   * From a total of 1047 plays just the 66.3% have been successful with a failure of 100% in the month of October. Goals between 0 and 19,999 has the highest rate of success with 50% or more. 
 
