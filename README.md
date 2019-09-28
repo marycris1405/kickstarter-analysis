@@ -2,8 +2,8 @@
 Performing analysis on Kickstarter data to uncover trends.
 
 ## Background
-Louise's play Fever came close to its foundraising goal in a short amount of time. 
-The challenge was to conduct a data analysis to answer questions and determine whether the length of a campaign contribures to its ultima success or failure. 
+Louise's wants to start her first crowdfounding campaign for her play Fever. Her estimate budget for her campaing goal of $10,000 in a short amount of time. 
+The challenge was to conduct a data analysis to answer questions and determine whether the length of a campaign contribures to its ultimate success or failure. 
 
 ### Challenge
 
